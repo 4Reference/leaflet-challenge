@@ -1,6 +1,8 @@
 # leaflet-challenge
 This is the homework for week 17 on Leaflet.js
 
+Make sure to create and add a file to static/js called config.js that includes your Mapbox API key defined as "API_KEY="
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
